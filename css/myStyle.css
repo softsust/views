@@ -1,0 +1,26 @@
+.page-content {
+    background-color: #ffffff;
+}
+.page-sidebar .page-sidebar-menu > li.active > a > .selected, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a > .selected {
+
+    border-left: 12px solid #f7f7f7;
+}
+.portlet {
+    /*box-shadow: 0 3px 6px rgba(0, 0, 0, 0.0), 0 3px 6px rgba(0, 0, 0, 0.1);*/
+}
+.page-bar {
+    /*background-color: #ffffff;*/
+}
+.foo{
+    font-family: 'Cairo', sans-serif
+}
+input[type=text]:focus {
+    border: 1px solid #1daf9a;
+}
+
+textarea:focus {
+    border: 1px solid #1daf9a !important;
+}
+.nav-tabs {
+    border-bottom: 1px solid #26a69a;
+}
